@@ -2,12 +2,12 @@ Hi, **I’m Gilang Permana**, a full stack developer who’s passionate about fr
 
 ```js
 const gilang = {
-  name: "Gilang Permana",
+  name: ["Gilang Permana"],
   role: ["Full Stack Developer"],
-  website: "https://portofolio-gilangv1.vercel.app/",
+  website: ["https://portofolio-gilangv1.vercel.app/"],
   social: {
-    github: "https://github.com/GilangPermana1",
-    linkedin: "http://www.linkedin.com/in/gilangpermananandaputra/"
+    github: ["https://github.com/GilangPermana1"],
+    linkedin: ["http://www.linkedin.com/in/gilangpermananandaputra/"]
   },
   skills: {
     frontend: ["HTML5", "CSS3", "Javascript", "TailwindCSS", "ReactJS"],

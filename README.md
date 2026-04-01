@@ -12,9 +12,9 @@ const gilang = {
   skills: {
     frontend: ["HTML5", "CSS3", "Javascript", "TailwindCSS", "ReactJS"],
     backend: ["PHP", "Laravel", "CodeIgniter"],
-    database: ["MySQL"],
+    database: ["MySQL", "PostgreSQL"],
     tools: ["VS Code", "Laragon", "Postman", "Figma", "Git"],
-    cms_stack: ["WordPress", "Shopify", "Squarespace", "Wix", "DUDA"],
+    cms_stack: ["WordPress", "Shopify", "Squarespace", "Wix", "DUDA", "Prestashop"],
     other_stack: ["Composer"],
     hosting: ["Cpanel", "Vercel", "Netlify", "GitHub Pages"]
   }
